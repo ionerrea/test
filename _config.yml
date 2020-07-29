@@ -12,7 +12,7 @@ author: Ion Errea
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Developers:
+  Developers: "https://ionerrea.github.io/developers"
   Donwload and installation:
   Manual:
   FAQ:

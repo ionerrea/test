@@ -1,22 +1,25 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: SSCHA
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: The Stochastic Self-Consistent Harmonic Approximation
 
 # Your name to show in the footer
-author: Some Person
+author: Ion Errea
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Developers:
+  Donwload and installation:
+  Manual:
+  FAQ:
+  Tutorials:
+    - Hydrogen Sulfide:
+    - PbTe:          
+  References and how to cite:
 
 # --- Logo --- #
 

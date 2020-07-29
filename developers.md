@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Developers
-subtitle: The main developers of the SSCHA
 ---
 
 -Ion Errea
+
 -Lorenzo Monacelli
+
 -Raffaello Bianco
 
 ### my history

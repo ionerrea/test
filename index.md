@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 bigimg: "/assets/img/logo.jpg"
 ---
 

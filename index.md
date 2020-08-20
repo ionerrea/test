@@ -1,6 +1,6 @@
 ---
 layout: home
-cover-img: "/assets/img/logo.jpg"
+bigimg: "/assets/img/logo.jpg"
 ---
 
 Bla bla bla
